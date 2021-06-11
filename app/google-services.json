@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905471853137",
+    "project_id": "smart-receipt-a7284",
+    "storage_bucket": "smart-receipt-a7284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905471853137:android:4957f12a8b905cff1e6e70",
+        "android_client_info": {
+          "package_name": "com.shoaibqadeer.smartreceipt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905471853137-hs9e6mcb0mcqi3oc9mvvdf3ch55bnt57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKnqlAK72nk3Lkd25_efG7otuLtv7H7GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905471853137-hs9e6mcb0mcqi3oc9mvvdf3ch55bnt57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
